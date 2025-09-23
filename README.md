@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Identity
 
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=internaldev-io&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
+   <img src="https://komarev.com/ghpvc/?username=Identity-GNU&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
       <img src="https://wakatime.com/badge/user/018d03bf-34bc-4aa3-894b-188ac9146c14.svg" alt="Total time coded since Jan 13 2024" />
    </a>
 </p>
