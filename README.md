@@ -36,10 +36,6 @@ As a full-stack developer since 2023, I specialize in building high-performance,
   </details>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Identity-GNU&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
-</p>
-
 
 <div align="center">
 </div>
