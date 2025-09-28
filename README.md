@@ -16,7 +16,7 @@ I'm focused on creating software that prioritizes privacy, empowers communities,
 <details>  
 <summary><b>🔧 Languages</b></summary>  
 <br>  
-<img src="https://skillicons.dev/icons?i=nextjs,nodejs,js,ts,py,c&theme=dark" alt="Languages"/>  
+<img src="https://skillicons.dev/icons?i=react,nodejs,js,ts,py,c&theme=dark" alt="Languages"/>  
 </details>  
 
 <details>  
